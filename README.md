@@ -3,6 +3,13 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=6000&pause=700&color=8E7AF7FF&center=true&vCenter=true&width=1000&height=70&lines=Take+your+time+🙂;Get+inspired+!;Leap+for+a+better+version+of+you+😎)](https://git.io/typing-svg)
 
 # <p align = "center">Adwait Asagekar over here &nbsp; <img src="./assets/gifs/Hand-wave.gif" width="30px"></p>
+<br>
+
+## ℹ️ About me
+<p>
+I’m a learning technophile with a Master’s degree in Computer Applications (MCA) from VJTI, Maharashtra, India — driven by curiosity and affection for building solutions everyday challenges. I enjoy exploring different layers of technology, from crafting robust software apps majorly to diving deep into the world of data.  
+</p>
+
 
 <!--
 **adwaitDev/adwaitDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
