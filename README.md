@@ -7,10 +7,30 @@
 
 ## ℹ️ About me
 <p>
-I’m a learning technophile with a Master’s degree in Computer Applications (MCA) from VJTI, Maharashtra, India — driven by curiosity and affection for building solutions everyday challenges. I enjoy exploring different layers of technology, from crafting robust software apps majorly to diving deep into the world of data.  
+I’m a 'Web Developer' with a Master’s degree in Computer Applications (MCA) from VJTI, Maharashtra, India — driven by curiosity and interest for building apps that solve everyday real-world problems. I enjoy learning different layers of technology, working my way around the concepts and upcoming trends. Lately, I've been exploring the AI/ML (Artificial Intelligence / Machine Learning) and data side of things to understand the data science domain.
 </p>
 
+<hr>
 
+### What I’m Currently Into -
+
+- Working primarily with Java (Spring) and Python (Django/Flask) to build reliable and scalable systems.
+  
+- Using React and TypeScript as part of my journey into full-stack development, while also familiarizing with MERN/MEAN stacks.
+  
+- Exploring data-driven insights using Python, Excel, SQL, and Tableau, and practicing hands-on case studies.
+  
+- Learning how AI/ML models are built and trained using Scikit-learn, TensorFlow/Keras, NumPy, and pandas, while experimenting on Kaggle.
+
+<hr>
+
+### My Core Interests -
+
+- Collaborate and contribute to open-source projects.
+  
+- Demonstrate knowledge and skills in hackathons, coding contests or Kaggle competitions.
+
+- Engage and learn something new with the developer and data communities.
 <!--
 **adwaitDev/adwaitDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
