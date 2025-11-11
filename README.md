@@ -14,7 +14,7 @@ I’m a 'Web Developer' with a Master’s degree in Computer Applications (MCA) 
 
 ### What I’m Currently Into -
 
-- Working primarily with Java (Spring) and Python (Django/Flask) to build reliable and scalable systems.
+- Working primarily with Java (Spring) and Python (Django/Flask/FastAPI) to build reliable and scalable systems.
   
 - Using React and TypeScript as part of my journey into full-stack development, while also familiarizing with MERN/MEAN stacks.
   
@@ -36,10 +36,18 @@ I’m a 'Web Developer' with a Master’s degree in Computer Applications (MCA) 
 
 # 🛠️ Technical Expertise
 
+<br>
+
   | **Skills** | **Tools & Tech** |
-  | :-------: | :------: |
-  | Programming Languages | Row 1 Col 2 |
-  | Row 2 Col 1 | Row 2 Col 2 |
+  | :-------: | :------ |
+  | Coding Languages | [![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)](https://www.w3schools.com/java) [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.w3schools.com/python) [![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)](https://www.w3schools.com/typescript) [![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://www.w3schools.com/html) [![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css&logoColor=white)](https://www.w3schools.com/css) |
+  | Backend Development | ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white) ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white) ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white) ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) |
+  | Frontend Design | ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white) |
+  | Database Management & ORMs | ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white) ![Hibernate ORM](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white) |
+  | Cloud Computing Services | Row 2 Col 2 |
+  | Development Environments | ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white) ![PyCharm](https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white) ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)  |
+  | Version Control | Row 2 Col 2 |
+  
 <!--
 **adwaitDev/adwaitDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
