@@ -2,10 +2,10 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=6000&pause=700&color=8E7AF7FF&center=true&vCenter=true&width=1000&height=70&lines=Take+your+time+🙂;Get+inspired+!;Leap+for+a+better+version+of+you+😎)](https://git.io/typing-svg)
 
-# <p align = "center">Adwait Asagekar over here &nbsp; <img src="./assets/gifs/Hand-wave.gif" width="30px"></p>
+# <p align = "center"> _Adwait Asagekar over here_ &nbsp; <img src="./assets/gifs/Hand-wave.gif" width="30px"></p>
 <br>
 
-## ℹ️ About me
+# ℹ️ About me
 <p>
 I’m a 'Web Developer' with a Master’s degree in Computer Applications (MCA) from VJTI, Maharashtra, India — driven by curiosity and interest for building apps that solve everyday real-world problems. I enjoy learning different layers of technology, working my way around the concepts and upcoming trends. Lately, I've been exploring the AI/ML (Artificial Intelligence / Machine Learning) and data side of things to understand the data science domain.
 </p>
@@ -31,6 +31,15 @@ I’m a 'Web Developer' with a Master’s degree in Computer Applications (MCA) 
 - Demonstrate knowledge and skills in hackathons, coding contests or Kaggle competitions.
 
 - Engage and learn something new with the developer and data communities.
+  
+<br>
+
+# 🛠️ Technical Expertise
+
+  | **Skills** | **Tools & Tech** |
+  | :-------: | :------: |
+  | Programming Languages | Row 1 Col 2 |
+  | Row 2 Col 1 | Row 2 Col 2 |
 <!--
 **adwaitDev/adwaitDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
